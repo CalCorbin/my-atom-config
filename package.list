@@ -1,0 +1,17 @@
+TabNine@4.0.7
+atom-beautify@0.33.4
+atom-file-icons@0.7.1
+auto-update-packages@1.0.1
+busy-signal@2.0.1
+color-picker@2.3.0
+highlight-selected@0.17.0
+intentions@2.1.1
+linter@3.4.0
+linter-pylint@2.1.1
+linter-ui-default@3.4.1
+minimap@4.40.0
+multi-cursor@3.0.0
+pigments@0.40.6
+prettier-atom@0.60.1
+pretty-json@2.1.2
+project-manager@3.3.8
